@@ -1,0 +1,8 @@
+{
+  "name": "Fast Delivery",
+  "description": "A localized, multi-vendor marketplace for Bangladesh featuring AI-powered shopping assistance and secure order management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
